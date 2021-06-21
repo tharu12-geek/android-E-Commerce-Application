@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439668305723",
+    "firebase_url": "https://lookgood-51f71-default-rtdb.firebaseio.com",
+    "project_id": "lookgood-51f71",
+    "storage_bucket": "lookgood-51f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439668305723:android:098994c16b01084747111e",
+        "android_client_info": {
+          "package_name": "com.example.lookgood_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439668305723-dfc07th9e4thhellfgbv2dnvehgk2vmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lookgood_ecommerce",
+            "certificate_hash": "e7c069b536f4726a52b41871fcd7393d15193d42"
+          }
+        },
+        {
+          "client_id": "439668305723-ea4rqmrkpuq0dilso5o2na1rh31jo8dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYUs9U9il5UzNZrIfwOUKKtvzH9fwQZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439668305723-ea4rqmrkpuq0dilso5o2na1rh31jo8dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

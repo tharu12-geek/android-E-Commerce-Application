@@ -1,0 +1,2 @@
+rootProject.name='LookGood_eCommerce'
+include ':app'
